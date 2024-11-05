@@ -1,0 +1,40 @@
+.posts {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+.post {
+    background-color: #bdbdbd;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px 0;
+    width: 60%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.post h2 {
+    font-family: sans-serif;
+}
+
+.post p {
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+.post button {
+    margin-right: 15px;
+    padding: 10px;
+    background-color: #003b6d;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+.post button:hover {
+    background-color: #d3d3d3;
+}

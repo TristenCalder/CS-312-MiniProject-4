@@ -1,0 +1,11 @@
+Edit post kept going to post not found no matter what i did
+
+The signup page should contain a form with inputs for user_id,
+password, name, and other details if needed.
+
+Conflicts with
+
+Create another table named 'users' with the following columns:
+user_id (Primary Key, Type: Serial),
+
+i chose to follow the second
